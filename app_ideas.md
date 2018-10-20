@@ -49,3 +49,7 @@ Scheduler to coordinate with friends to find places to eat together and coordina
 1. Given a time and places that people like, randomly pick people for a good time
 1. Make hosting events smooth; polling friends to see who will make it, what is on the agenda, what a friend needs to bring for the party
 1. Host events and make sure everything is coordinated effictivly; establish a hierarchy; managers and executives are communicating with their employees in an effective way
+
+## Cool Features
+
+1. Leverage Google's popularity data to let users know how popular a place is or how busy it is during a certain time of day.
