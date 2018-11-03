@@ -14,8 +14,87 @@ Allows friends and family to see what each others schedules are like so that the
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
+**Required Must-have Stories**
+
+ * User can login
+ * User can sign up
+ * User can look up activities to do near them
+ * User can create a new event
+ * User can RSVP to the coordinator
+ * User can send an invite to another user for their event
+ * User can see their own calendar with events they've scheduled/RSVPed to 
+
+**Optional Nice-to-have Stories**
+
+ * User can see their friends calendar
+ * Share feeds about past events (social network)
+ * User can see ratings for places that they may go to
+ * User can see how busy a place is at a certain time
+ * User can get notifications about places that they may like
+ * User can add friends to their profile
+ 
+**Screen Archetypes**
+
+ * Login
+   * User can login
+ * Register
+   * User can sign up
+ * Stream
+   * User can look up activities to do near them
+   * User can see their friends calendar
+   * Share feeds about past events (social network)
+   * User can get notifications about places that they may like
+ * Detail
+   * User can see ratings for places that they may go to
+   * User can see how busy a place is at a certain time
+ * Creation
+   * User can create a new event
+ * Messaging
+   * User can RSVP to the coordinator
+   * User can send an invite to another user for their event
+ * Calendar
+   * User can see their own calendar with events they've scheduled/RSVPed to 
+ * Profile
+   * User can add friends to their profile
+   
+**Tab Navigation** (Tab to Screen)
+
+ * Stream
+ * Creation
+ * Messaging
+ * Calendar
+ * Profile
+ 
+**Flow Navigation** (Screen to Screen)
+
+ * Login
+   * Stream
+   * Creation
+   * Messaging
+   * Calendar
+   * Profile
+ * Register
+   * Stream
+   * Creation
+   * Messaging
+   * Calendar
+   * Profile
+ * Stream
+   * Creation
+   * Messaging
+   * Calendar
+   * Profile
+   * Detail
+ * Creation
+   * Stream
+   * Calendar
+ * Messaging
+   * Stream
+ * Calendar
+   * Stream
+ * Profile
+   * Stream
 
 ---
 
